@@ -1,1 +1,1 @@
-# madg2-analysis
+# mdga2-analysis
